@@ -1,0 +1,17 @@
+BC_dust_depo_CMIP6historical.ipynb
+diag001_nutsO2.ipynb
+tuning_runs/
+
+nuts_MARBL_diagnostic_histfiles.ipynb
+visualize_issues_O2min_zone.ipynb
+
+compare_2runs_BCFe_bugfix.ipynb
+nuts_MARBL_diagnostic_tseries_000.ipynb
+old/
+WOA_to_POPgrid.ipynb
+
+dask-worker-space/
+nuts_MARBL_diagnostic_tseries.ipynb
+satNPP_Chl_PIC_to_POPgrid.ipynb
+
+.ipynb_checkpoints
